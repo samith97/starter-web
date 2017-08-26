@@ -4,9 +4,9 @@ This is a sample web project for learning Git
 This repository is for showing how Git and GitHub work. This is an example project
 
 ## Purpose
-
+purpose is to learn git
 ## Deployment
 
-Sample website with plenty of files for demos
+Deployment description. 
 
 ## How To Contribute
